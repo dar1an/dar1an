@@ -2,7 +2,7 @@
 
 - I’m interested in mobile app and software development. 
 
-- 🌱 I’m currently learning learning to code in Swift and also I am learning Salesforce for my job. 
+- 🌱 I’m currently learning learning to code in Swift and looking to slowly but surely develop a few apps that are coming soon. 
 
 - 💞️ I’m looking to collaborate on anything. I am eager to learn and would love to get my hands on a project and try my best to add my insight for the benefit of the 
 project. 
