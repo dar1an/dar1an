@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning learning to code in Swift and looking to slowly but surely develop a few apps that are coming soon. 
 
-- 💞️ I’m looking to collaborate on anything. I am eager to learn and would love to get my hands on a project and try my best to add my insight for the benefit of the 
+- 😁 I’m looking to collaborate on anything. I am eager to learn and would love to get my hands on a project and try my best to add my insight for the benefit of the 
 project. 
 
 - 📫 The best way to reach me is by emailing me at darianhthomas26@gmail.com
